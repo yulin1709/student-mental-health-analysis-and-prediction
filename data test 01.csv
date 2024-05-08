@@ -1,0 +1,1212 @@
+﻿age,sex,states,education level,grades,employed,marital status,do you get stressed easily,do you have anxiety,do you have depression,do you have panic attacks,do you have suicidal thoughts,do you seek for treatment,family history
+13,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,1,1,0,0,0,0,0
+13,female,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+13,female,Pahang,Lower Secondary,3.00 - 3.49,0,0,1,0,1,0,1,1,1
+13,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+13,female,Penang,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+13,male,Kedah,Lower Secondary,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+13,male,Pahang,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+13,female,Kedah,Lower Secondary,3.50 - 4.00,1,0,1,1,1,0,0,0,0
+13,male,Perak,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+13,male,Selangor,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,1,0,1
+13,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+13,male,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+13,male,Penang,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+13,female,Negeri Sembilan,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+13,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+13,female,Perak,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+13,female,Malacca,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+13,female,Sarawak,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+13,female,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,1,0,1,1,1,0,0
+13,male,Malacca,Lower Secondary,3.50 - 4.00,1,0,1,0,1,0,0,0,1
+13,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,1,0,1,1,0,0,0,0,0
+13,female,Sabah,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+13,male,Selangor,Lower Secondary,3.00 - 3.49,1,0,1,0,0,0,1,0,0
+13,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,1,0,0,0,0,0
+13,male,Sabah,Lower Secondary,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+13,female,Selangor,Lower Secondary,3.50 - 4.00,0,1,0,0,0,0,1,0,0
+13,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,1,0,0,0,0,0
+13,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,1,0,1,1,0,1,0
+13,female,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+13,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+13,female,Johor,Lower Secondary,3.50 - 4.00,0,0,0,1,0,1,0,0,0
+13,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+13,male,Johor,Lower Secondary,3.00 - 3.49,0,0,0,1,1,0,1,0,0
+13,male,Negeri Sembilan,Lower Secondary,3.50 - 4.00,0,0,0,1,0,1,0,0,0
+13,male,Johor,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+13,female,Kedah,Lower Secondary,2.50 - 2.99,0,0,0,1,0,0,0,0,0
+13,female,Terengganu,Lower Secondary,2.00 - 2.49,0,0,1,0,1,0,0,0,0
+13,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,0,1,1,0,0,0
+13,male,Selangor,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,1,0,0
+13,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,1,0,0,0,0,0
+13,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+13,male,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,0,0,1,1,0,0
+13,male,Penang,Lower Secondary,2.50 - 2.99,0,0,1,0,1,0,0,0,0
+13,female,Malacca,Lower Secondary,2.50 - 2.99,0,0,1,1,0,1,0,1,1
+14,female,Selangor,Lower Secondary,0 - 1.99,0,0,1,0,0,0,0,0,0
+14,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+14,female,Penang,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,1,1,1,0,0,1,0
+14,male,Penang,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,female,Johor,Lower Secondary,3.50 - 4.00,0,0,0,1,0,0,0,0,0
+14,female,Negeri Sembilan,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+14,female,Penang,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+14,female,Terengganu,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,female,Pahang,Lower Secondary,3.00 - 3.49,1,0,0,1,1,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+14,male,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,male,Johor,Lower Secondary,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,1,0,0,0,0,1,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,1,1,0,0,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,1,0,1,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+14,female,Johor,Lower Secondary,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+14,female,Kelantan,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+14,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+14,female,Johor,Lower Secondary,3.50 - 4.00,0,0,0,1,1,0,0,0,0
+14,female,Johor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+14,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,1,0,0,1,0,0,0,0,0
+14,male,Perak,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,male,Selangor,Lower Secondary,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+14,male,Perak,Lower Secondary,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,0 - 1.99,0,0,0,0,1,0,1,0,0
+14,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+14,female,Penang,Lower Secondary,3.50 - 4.00,0,0,0,1,0,1,1,0,0
+14,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,1,1,0,0,0,0
+14,female,Penang,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+14,male,Selangor,Lower Secondary,3.50 - 4.00,0,0,1,0,1,0,1,1,0
+14,male,Terengganu,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+14,male,Penang,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+14,male,Kelantan,Lower Secondary,3.00 - 3.49,0,0,1,1,0,0,1,0,0
+14,male,Pahang,Lower Secondary,3.00 - 3.49,1,0,1,0,1,0,0,0,0
+14,male,Terengganu,Lower Secondary,3.00 - 3.49,1,0,1,1,0,0,1,0,1
+14,female,Johor,Lower Secondary,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+14,female,Negeri Sembilan,Lower Secondary,2.50 - 2.99,0,0,0,0,0,1,1,0,0
+14,female,Kelantan,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+14,female,Kedah,Lower Secondary,3.00 - 3.49,0,0,0,1,1,0,0,0,1
+14,female,Pahang,Lower Secondary,2.00 - 2.49,0,0,1,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+14,male,Sabah,Lower Secondary,3.00 - 3.49,0,0,1,1,1,1,1,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+14,male,Terengganu,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,male,Kelantan,Lower Secondary,0 - 1.99,1,1,1,1,1,1,1,1,1
+14,male,Penang,Lower Secondary,3.50 - 4.00,0,0,1,1,0,0,0,0,0
+14,male,Perak,Lower Secondary,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+14,female,Penang,Lower Secondary,3.00 - 3.49,0,0,0,1,0,1,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+14,male,Malacca,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+14,male,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,1,1,0,1,1,1
+14,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+14,male,Kedah,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+14,male,Penang,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,1,0,0
+14,male,Malacca,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+14,female,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,1,0,1,0,0,0,1
+14,female,Kedah,Lower Secondary,3.50 - 4.00,0,0,1,1,0,0,1,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,1,0,1,0,0,0,0
+15,male,Terengganu,Lower Secondary,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+15,female,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+15,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,0,0,0,1,1,0,0
+15,female,Pahang,Lower Secondary,3.50 - 4.00,0,0,1,1,0,1,1,0,1
+15,female,Perak,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+15,female,Johor,Lower Secondary,3.50 - 4.00,0,0,1,0,1,0,0,0,0
+15,female,Pahang,Lower Secondary,2.50 - 2.99,1,0,0,0,0,0,1,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,1,0,1,1,1,0,1,1,0
+15,male,Terengganu,Lower Secondary,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+15,male,Malacca,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,1,1,1,1,1,1
+15,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,0,1,0,1,0,0
+15,female,Malacca,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+15,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+15,female,Sarawak,Lower Secondary,2.50 - 2.99,0,0,0,0,1,1,1,0,1
+15,female,Penang,Lower Secondary,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+15,female,Kelantan,Lower Secondary,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+15,female,Penang,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+15,male,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+15,male,Terengganu,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+15,male,Malacca,Lower Secondary,3.50 - 4.00,0,0,1,1,1,1,1,1,1
+15,male,Kuala Lumpur,Lower Secondary,3.00 - 3.49,0,0,0,0,1,1,0,0,0
+15,male,Sarawak,Lower Secondary,3.00 - 3.49,0,0,0,1,0,1,0,0,0
+15,male,Pahang,Lower Secondary,3.00 - 3.49,1,0,1,1,1,0,1,0,1
+15,female,Sabah,Lower Secondary,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+15,female,Malacca,Lower Secondary,3.50 - 4.00,0,0,0,0,0,1,1,1,1
+15,female,Malacca,Lower Secondary,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+15,female,Kuala Lumpur,Lower Secondary,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+15,female,Kuala Lumpur,Lower Secondary,2.50 - 2.99,1,0,0,0,1,1,1,0,0
+15,female,Kedah,Lower Secondary,3.50 - 4.00,0,0,0,1,1,0,0,0,0
+15,male,Kelantan,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+15,male,Kedah,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+15,male,Kuala Lumpur,Lower Secondary,2.50 - 2.99,0,0,1,1,1,0,1,0,0
+15,male,Kelantan,Lower Secondary,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+15,male,Kuala Lumpur,Lower Secondary,2.50 - 2.99,1,0,0,0,0,1,0,1,0
+15,male,Terengganu,Lower Secondary,3.00 - 3.49,1,0,1,1,0,1,1,0,0
+15,male,Kuala Lumpur,Lower Secondary,0 - 1.99,0,0,0,0,0,0,0,0,0
+15,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,1,0,0,1,1,0,0,0,0
+15,female,Penang,Lower Secondary,3.50 - 4.00,0,0,0,0,1,0,0,0,1
+15,female,Sarawak,Lower Secondary,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+15,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+15,female,Selangor,Lower Secondary,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+15,female,Terengganu,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+15,male,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,1,1,1,1,0,0
+15,male,Selangor,Lower Secondary,2.00 - 2.49,0,0,0,0,0,1,0,0,0
+15,male,Selangor,Lower Secondary,2.50 - 2.99,0,0,1,1,1,1,1,1,0
+15,male,Selangor,Lower Secondary,3.00 - 3.49,1,0,1,0,0,0,1,0,0
+15,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+15,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+15,female,Selangor,Lower Secondary,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+15,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,1,0,1,0,1,0,0
+15,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+15,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,1,1,0,0,0,0,0
+15,male,Selangor,Lower Secondary,0 - 1.99,1,0,0,1,0,1,0,0,0
+15,male,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,1,1,1,1,1,1
+15,male,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+15,male,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+15,male,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+15,female,Kuala Lumpur,Lower Secondary,0 - 1.99,0,0,0,1,1,1,0,1,0
+15,female,Penang,Lower Secondary,3.50 - 4.00,0,0,1,0,1,1,1,0,0
+15,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+15,female,Malacca,Lower Secondary,2.50 - 2.99,0,0,0,0,1,1,0,0,0
+15,female,Terengganu,Lower Secondary,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+15,female,Kelantan,Lower Secondary,3.50 - 4.00,1,1,0,0,0,0,0,0,0
+15,male,Negeri Sembilan,Lower Secondary,2.00 - 2.49,0,0,0,1,1,0,1,0,1
+15,male,Selangor,Lower Secondary,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+15,male,Penang,Lower Secondary,3.50 - 4.00,0,0,0,1,0,0,0,0,0
+15,male,Terengganu,Lower Secondary,2.50 - 2.99,0,0,1,0,1,0,0,0,0
+15,male,Sarawak,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+15,male,Johor,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,0,0,1,1,0,0
+15,female,Johor,Lower Secondary,2.50 - 2.99,1,1,1,0,0,1,0,0,0
+15,female,Johor,Lower Secondary,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+15,female,Johor,Lower Secondary,3.50 - 4.00,0,0,0,1,1,0,0,0,1
+15,female,Pahang,Lower Secondary,2.50 - 2.99,1,0,0,0,0,0,1,0,0
+15,female,Negeri Sembilan,Lower Secondary,3.50 - 4.00,0,0,0,1,1,0,1,1,0
+15,female,Perak,Lower Secondary,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+15,male,Johor,Lower Secondary,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+15,male,Sabah,Lower Secondary,3.00 - 3.49,0,0,0,1,1,1,1,0,0
+15,male,Penang,Lower Secondary,3.00 - 3.49,0,0,1,0,1,0,1,1,0
+15,male,Penang,Lower Secondary,3.50 - 4.00,0,1,1,0,0,0,0,0,0
+15,male,Kedah,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+15,female,Malacca,Lower Secondary,2.50 - 2.99,1,0,0,0,1,1,0,0,0
+15,female,Kelantan,Lower Secondary,3.50 - 4.00,0,0,1,1,0,0,0,0,0
+15,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,0,1,0,0,0,1,0
+15,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+15,female,Kuala Lumpur,Lower Secondary,0 - 1.99,0,0,1,1,1,0,0,0,0
+15,female,Johor,Lower Secondary,3.00 - 3.49,0,0,1,0,0,0,1,0,0
+15,male,Johor,Lower Secondary,3.50 - 4.00,0,0,1,1,0,0,1,0,0
+15,male,Penang,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,1,0,1,1,1,1,0,0,0
+15,male,Penang,Lower Secondary,3.00 - 3.49,1,0,0,1,0,1,0,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,1,0,1,1,1,0,1,0,0
+15,male,Johor,Lower Secondary,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+15,female,Penang,Lower Secondary,3.00 - 3.49,0,0,0,0,0,1,0,1,0
+15,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,1,0,1,0,1,0,0
+15,female,Johor,Lower Secondary,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+15,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+15,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,0,1,1,0,0,0,0
+15,female,Selangor,Lower Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+15,male,Selangor,Lower Secondary,3.00 - 3.49,1,0,1,0,0,0,1,0,0
+15,male,Kelantan,Lower Secondary,0 - 1.99,0,0,0,1,1,0,1,0,0
+15,male,Negeri Sembilan,Lower Secondary,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+15,male,Sabah,Lower Secondary,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+15,male,Perak,Lower Secondary,2.50 - 2.99,0,0,0,0,0,1,1,0,0
+15,male,Malacca,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+15,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,1,0,0,1,1,0,0,0,0
+15,female,Terengganu,Lower Secondary,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+15,female,Johor,Lower Secondary,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+15,female,Kuala Lumpur,Lower Secondary,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+15,female,Johor,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+15,female,Sarawak,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+15,male,Kedah,Lower Secondary,3.50 - 4.00,0,0,0,1,1,1,1,0,0
+15,male,Pahang,Lower Secondary,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+15,male,Sabah,Lower Secondary,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+15,male,Johor,Lower Secondary,3.00 - 3.49,1,0,1,0,0,0,1,0,0
+15,male,Sabah,Lower Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+15,male,Kedah,Lower Secondary,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+15,female,Selangor,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+15,female,Selangor,Lower Secondary,3.00 - 3.49,0,0,1,0,1,1,1,0,0
+15,female,Sarawak,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+15,female,Sarawak,Lower Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+15,female,Terengganu,Lower Secondary,2.50 - 2.99,1,1,1,1,1,1,0,0,0
+15,female,Perak,Lower Secondary,2.50 - 2.99,1,0,1,1,1,1,1,1,0
+15,male,Johor,Lower Secondary,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+15,male,Sabah,Lower Secondary,3.50 - 4.00,1,0,0,1,0,0,0,0,0
+15,male,Kuala Lumpur,Lower Secondary,0 - 1.99,1,1,0,0,0,0,0,0,0
+15,male,Kedah,Lower Secondary,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+15,male,Kuala Lumpur,Lower Secondary,3.50 - 4.00,0,0,0,1,1,1,0,1,0
+15,male,Sabah,Pre- University,3.50 - 4.00,0,0,0,0,0,1,1,0,0
+15,female,Kedah,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+15,female,Malacca,Pre- University,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+15,female,Negeri Sembilan,Pre- University,3.50 - 4.00,0,0,1,0,0,1,1,0,0
+16,male,Johor,Upper Secondary,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+16,male,Penang,Upper Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+16,male,Penang,Upper Secondary,3.00 - 3.49,1,0,0,0,0,0,1,0,0
+16,male,Sabah,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+16,female,Terengganu,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,1,1,0
+16,male,Kedah,Upper Secondary,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+16,female,Sarawak,Upper Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+16,male,Penang,Upper Secondary,3.50 - 4.00,0,0,0,0,1,1,0,0,0
+16,female,Pahang,Pre- University,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+16,female,Sarawak,Pre- University,3.50 - 4.00,0,0,1,1,1,0,1,0,0
+16,female,Negeri Sembilan,Pre- University,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+16,male,Johor,Pre- University,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+16,female,Terengganu,Upper Secondary,3.50 - 4.00,0,0,1,0,1,0,1,0,0
+16,male,Kuala Lumpur,Upper Secondary,2.50 - 2.99,1,0,1,0,0,1,0,0,0
+16,male,Kuala Lumpur,Upper Secondary,3.50 - 4.00,0,0,1,0,1,1,1,0,0
+16,male,Penang,Upper Secondary,2.50 - 2.99,0,0,0,1,1,0,0,0,0
+16,male,Terengganu,Upper Secondary,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+16,female,Kuala Lumpur,Upper Secondary,0 - 1.99,1,0,1,0,0,0,1,0,0
+16,female,Kuala Lumpur,Upper Secondary,3.50 - 4.00,1,0,1,1,1,0,1,0,0
+16,male,Sarawak,Upper Secondary,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+16,female,Selangor,Upper Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+16,female,Sabah,Upper Secondary,3.00 - 3.49,0,0,1,0,0,1,1,1,1
+16,female,Kelantan,Upper Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+16,male,Kuala Lumpur,Upper Secondary,3.00 - 3.49,1,0,1,1,1,0,0,0,0
+16,female,Sarawak,Upper Secondary,3.00 - 3.49,1,0,0,0,1,0,0,0,0
+16,male,Kuala Lumpur,Upper Secondary,3.00 - 3.49,1,0,0,1,1,0,0,0,0
+16,male,Kuala Lumpur,Upper Secondary,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+16,male,Selangor,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,1,0
+16,female,Kuala Lumpur,Upper Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+16,female,Sarawak,Upper Secondary,3.00 - 3.49,0,0,0,1,1,1,1,0,0
+16,male,Sabah,Upper Secondary,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+16,male,Selangor,Upper Secondary,3.00 - 3.49,0,0,1,1,1,1,1,0,0
+16,female,Penang,Upper Secondary,3.00 - 3.49,1,0,1,0,1,0,1,0,1
+16,female,Penang,Upper Secondary,3.00 - 3.49,1,0,0,1,1,0,0,0,1
+16,female,Sarawak,Upper Secondary,3.00 - 3.49,0,0,1,0,1,0,0,0,0
+16,male,Kuala Lumpur,Upper Secondary,3.50 - 4.00,1,0,0,0,0,0,1,0,1
+16,female,Sarawak,Upper Secondary,3.00 - 3.49,0,0,0,0,1,1,1,0,0
+16,male,Penang,Pre- University,3.00 - 3.49,0,0,1,1,1,0,1,1,0
+16,male,Malacca,Upper Secondary,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+16,male,Johor,Upper Secondary,3.00 - 3.49,1,0,0,1,1,1,0,0,0
+16,female,Negeri Sembilan,Upper Secondary,2.50 - 2.99,1,1,1,1,1,1,1,1,0
+16,female,Negeri Sembilan,Upper Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+16,male,Negeri Sembilan,Upper Secondary,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+16,male,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+16,male,Malacca,Upper Secondary,3.50 - 4.00,0,0,1,0,0,0,1,1,0
+16,male,Sarawak,Upper Secondary,3.50 - 4.00,0,0,0,1,1,1,0,1,0
+16,male,Perak,Upper Secondary,3.50 - 4.00,0,0,1,0,1,1,1,0,0
+16,male,Negeri Sembilan,Upper Secondary,3.00 - 3.49,0,1,1,0,0,0,0,0,0
+16,male,Kuala Lumpur,Pre- University,0 - 1.99,1,0,0,0,1,1,0,0,0
+16,female,Perak,Upper Secondary,3.00 - 3.49,0,1,0,0,1,1,1,0,0
+16,male,Selangor,Pre- University,3.00 - 3.49,1,1,1,0,0,0,0,0,0
+16,male,Selangor,Pre- University,3.00 - 3.49,1,0,1,1,1,0,1,1,0
+16,female,Johor,Upper Secondary,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+16,male,Penang,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+16,female,Kelantan,Pre- University,3.00 - 3.49,0,0,0,1,1,0,0,0,0
+16,male,Kuala Lumpur,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+16,female,Johor,Pre- University,3.50 - 4.00,0,0,1,1,0,0,1,0,0
+16,female,Malacca,Upper Secondary,3.00 - 3.49,0,0,1,1,0,1,1,0,0
+16,female,Pahang,Upper Secondary,3.00 - 3.49,1,0,0,0,0,1,0,0,0
+16,male,Johor,Pre- University,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+16,female,Kelantan,Pre- University,3.00 - 3.49,0,0,1,1,1,0,0,0,1
+16,male,Selangor,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+16,male,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+16,male,Selangor,Upper Secondary,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+16,female,Sarawak,Upper Secondary,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+16,male,Johor,Upper Secondary,3.50 - 4.00,0,0,0,1,1,1,1,1,1
+16,female,Sarawak,Upper Secondary,3.50 - 4.00,0,0,0,0,1,0,1,0,1
+16,male,Penang,Upper Secondary,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+16,female,Perak,Upper Secondary,2.50 - 2.99,0,1,0,0,0,0,0,0,0
+16,female,Selangor,Upper Secondary,3.50 - 4.00,0,0,1,0,1,1,0,0,0
+16,female,Perak,Upper Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+16,male,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+16,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,0,1,0,1
+16,male,Kuala Lumpur,Pre- University,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+16,male,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+16,male,Kuala Lumpur,Pre- University,2.00 - 2.49,0,0,1,1,0,0,1,0,0
+16,male,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+16,female,Kuala Lumpur,Pre- University,3.50 - 4.00,1,0,0,1,1,1,0,0,0
+16,female,Kuala Lumpur,Pre- University,3.00 - 3.49,1,0,0,0,0,1,0,0,0
+16,male,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,1,1,1,0,1,0,1
+16,female,Kuala Lumpur,Pre- University,3.00 - 3.49,1,0,1,0,1,0,0,0,0
+16,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+16,female,Selangor,Pre- University,2.50 - 2.99,0,0,1,0,1,0,1,0,0
+16,male,Selangor,Pre- University,3.50 - 4.00,0,0,0,1,0,1,0,0,0
+16,female,Selangor,Upper Secondary,2.00 - 2.49,0,0,0,0,1,1,1,0,0
+16,male,Selangor,Upper Secondary,3.50 - 4.00,0,0,0,1,1,0,0,0,1
+16,male,Selangor,Pre- University,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+16,male,Selangor,Pre- University,0 - 1.99,0,0,1,0,0,0,1,0,0
+16,male,Selangor,Pre- University,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+16,male,Selangor,Upper Secondary,0 - 1.99,0,0,0,1,0,1,0,1,0
+16,female,Selangor,Upper Secondary,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+16,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,1,1,0,1
+16,female,Johor,Upper Secondary,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+16,female,Kedah,Upper Secondary,3.00 - 3.49,0,0,1,1,1,0,0,0,0
+16,male,Johor,Pre- University,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+16,female,Kedah,Upper Secondary,3.00 - 3.49,0,0,0,1,1,0,0,0,0
+17,female,Sabah,Upper Secondary,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+17,male,Sarawak,Upper Secondary,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+17,female,Kedah,Upper Secondary,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+17,male,Selangor,Upper Secondary,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+17,male,Perak,Upper Secondary,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+17,male,Kuala Lumpur,Upper Secondary,0 - 1.99,0,0,0,1,1,1,1,0,0
+17,male,Kuala Lumpur,Upper Secondary,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+17,female,Selangor,Upper Secondary,2.50 - 2.99,0,0,0,1,1,1,1,0,0
+17,male,Penang,Upper Secondary,2.50 - 2.99,1,0,1,1,0,0,1,0,0
+17,female,Kelantan,Upper Secondary,0 - 1.99,1,1,0,0,0,0,0,0,0
+17,female,Selangor,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+17,female,Selangor,Upper Secondary,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+17,female,Selangor,Upper Secondary,2.50 - 2.99,0,0,1,0,1,1,1,0,0
+17,male,Selangor,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+17,female,Selangor,Upper Secondary,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+17,male,Selangor,Upper Secondary,3.00 - 3.49,0,0,1,1,1,1,0,0,0
+17,female,Selangor,Upper Secondary,3.50 - 4.00,1,0,0,1,1,1,1,1,1
+17,male,Selangor,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+17,male,Johor,Upper Secondary,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+17,male,Negeri Sembilan,Upper Secondary,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+17,female,Kelantan,Upper Secondary,3.00 - 3.49,1,0,0,0,0,0,1,0,0
+17,female,Kedah,Upper Secondary,2.50 - 2.99,0,0,1,1,1,1,1,1,1
+17,female,Pahang,Upper Secondary,3.00 - 3.49,0,0,1,0,1,1,1,0,0
+17,female,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+17,female,Sabah,Pre- University,3.00 - 3.49,0,0,1,0,1,1,0,0,0
+17,male,Kuala Lumpur,Upper Secondary,3.00 - 3.49,0,0,1,0,1,1,1,0,0
+17,female,Terengganu,Upper Secondary,3.50 - 4.00,1,0,1,1,0,0,0,0,0
+17,male,Kelantan,Upper Secondary,3.50 - 4.00,0,0,1,1,1,0,1,1,0
+17,female,Penang,Upper Secondary,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+17,male,Perak,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+17,female,Kuala Lumpur,Upper Secondary,3.50 - 4.00,0,0,0,1,1,0,0,0,0
+17,male,Kuala Lumpur,Upper Secondary,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+17,female,Selangor,Pre- University,3.00 - 3.49,1,0,1,0,1,0,1,0,0
+17,female,Selangor,Pre- University,3.00 - 3.49,1,0,0,0,0,1,1,0,0
+17,female,Kuala Lumpur,Pre- University,3.50 - 4.00,1,0,0,0,0,1,0,0,0
+17,female,Johor,Upper Secondary,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+17,female,Kuala Lumpur,Upper Secondary,3.00 - 3.49,1,0,1,1,1,0,0,0,0
+17,female,Negeri Sembilan,Upper Secondary,2.00 - 2.49,0,0,0,1,0,0,1,0,0
+17,male,Sarawak,Upper Secondary,3.50 - 4.00,0,0,0,1,1,0,1,1,0
+17,male,Kuala Lumpur,Upper Secondary,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+17,male,Pahang,Upper Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+17,female,Selangor,Pre- University,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+17,male,Sabah,Pre- University,3.50 - 4.00,0,0,0,0,1,0,1,1,0
+17,female,Kuala Lumpur,Pre- University,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+17,female,Kedah,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+17,female,Terengganu,Upper Secondary,2.50 - 2.99,1,0,0,0,1,1,0,0,0
+17,female,Johor,Upper Secondary,2.50 - 2.99,1,0,1,0,1,0,0,0,0
+17,female,Johor,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+17,female,Kuala Lumpur,Upper Secondary,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+17,female,Sarawak,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+17,female,Kuala Lumpur,Upper Secondary,3.50 - 4.00,1,0,1,0,0,0,1,0,0
+17,male,Johor,Upper Secondary,3.50 - 4.00,1,0,0,0,0,0,1,0,0
+17,male,Sarawak,Upper Secondary,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+17,male,Perak,Upper Secondary,2.50 - 2.99,1,0,0,0,1,1,0,0,0
+17,male,Kuala Lumpur,Upper Secondary,3.00 - 3.49,1,0,0,1,0,1,0,0,0
+17,male,Kelantan,Upper Secondary,2.50 - 2.99,1,0,1,1,1,0,1,0,0
+17,female,Malacca,Upper Secondary,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+17,female,Sabah,Upper Secondary,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+17,female,Negeri Sembilan,Upper Secondary,3.00 - 3.49,0,0,0,1,1,1,1,0,0
+17,female,Negeri Sembilan,Upper Secondary,0 - 1.99,1,0,1,1,1,0,1,1,0
+17,female,Malacca,Pre- University,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+17,male,Sabah,Pre- University,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+17,female,Selangor,Pre- University,3.00 - 3.49,1,0,1,0,1,1,0,0,0
+17,male,Selangor,Pre- University,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+17,female,Selangor,Pre- University,3.50 - 4.00,0,0,1,1,0,0,0,0,0
+17,female,Selangor,Pre- University,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+17,female,Kuala Lumpur,Upper Secondary,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+17,male,Kelantan,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+17,male,Sabah,Upper Secondary,3.50 - 4.00,0,0,1,1,0,0,1,0,0
+17,female,Sabah,Upper Secondary,3.00 - 3.49,0,0,0,1,0,0,0,0,0
+17,female,Malacca,Upper Secondary,3.50 - 4.00,0,0,0,0,1,1,0,0,0
+17,female,Kuala Lumpur,Upper Secondary,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+17,female,Perak,Upper Secondary,3.00 - 3.49,0,0,0,1,1,0,1,0,0
+17,female,Kedah,Upper Secondary,3.50 - 4.00,1,0,1,0,1,0,0,0,0
+17,male,Sarawak,Upper Secondary,2.50 - 2.99,1,0,0,0,0,1,0,1,1
+17,female,Kuala Lumpur,Upper Secondary,3.50 - 4.00,1,0,0,0,1,0,0,0,0
+17,male,Negeri Sembilan,Upper Secondary,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+17,male,Malacca,Upper Secondary,2.50 - 2.99,0,0,1,0,1,1,0,0,0
+17,female,Penang,Upper Secondary,3.00 - 3.49,0,0,1,1,1,0,0,0,0
+17,male,Sarawak,Upper Secondary,2.50 - 2.99,1,1,0,0,0,0,0,0,0
+17,female,Penang,Upper Secondary,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+17,female,Malacca,Upper Secondary,2.50 - 2.99,0,0,1,1,1,0,0,0,0
+17,female,Selangor,Upper Secondary,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+17,female,Kelantan,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+17,female,Johor,Upper Secondary,3.50 - 4.00,0,0,1,0,0,1,0,1,0
+17,male,Kuala Lumpur,Pre- University,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+17,female,Selangor,Pre- University,2.50 - 2.99,1,0,0,1,1,0,0,0,0
+17,male,Selangor,Pre- University,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+17,male,Penang,Upper Secondary,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+17,female,Perak,Upper Secondary,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+17,male,Malacca,Upper Secondary,3.50 - 4.00,1,0,1,1,0,0,0,0,0
+17,male,Kuala Lumpur,Upper Secondary,3.50 - 4.00,0,0,0,1,0,0,1,1,1
+17,female,Sabah,Upper Secondary,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+17,female,Penang,Upper Secondary,3.00 - 3.49,0,0,0,0,0,1,0,0,1
+17,female,Penang,Upper Secondary,2.50 - 2.99,0,0,1,1,1,1,1,0,0
+17,female,Malacca,Upper Secondary,2.50 - 2.99,0,0,1,0,0,0,1,0,0
+17,female,Kuala Lumpur,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+17,female,Selangor,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+17,male,Selangor,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+17,male,Selangor,Upper Secondary,3.50 - 4.00,0,0,0,1,1,1,1,0,0
+17,male,Pahang,Upper Secondary,2.50 - 2.99,0,0,0,1,0,0,0,0,0
+18,female,Sabah,Pre- University,3.50 - 4.00,0,0,0,1,1,0,1,0,0
+18,male,Kuala Lumpur,Pre- University,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+18,female,Malacca,Pre- University,3.50 - 4.00,1,0,1,0,1,1,1,0,0
+18,female,Selangor,Pre- University,3.50 - 4.00,0,0,0,1,1,0,0,1,0
+18,male,Johor,Upper Secondary,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+18,female,Kedah,Upper Secondary,3.50 - 4.00,1,0,0,0,0,0,1,0,0
+18,male,Selangor,Upper Secondary,3.50 - 4.00,0,0,0,1,1,0,1,1,0
+18,male,Kedah,Upper Secondary,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+18,male,Pahang,Upper Secondary,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+18,male,Terengganu,Pre- University,3.50 - 4.00,0,0,0,0,0,1,1,0,0
+18,female,Sabah,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+18,female,Perak,Pre- University,3.50 - 4.00,0,0,0,1,1,0,0,1,0
+18,female,Penang,Pre- University,3.50 - 4.00,1,0,0,0,1,0,0,0,1
+18,male,Penang,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+18,female,Kedah,Degree,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+18,female,Perak,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+18,male,Penang,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+18,male,Kuala Lumpur,Degree,2.50 - 2.99,0,0,1,1,1,1,1,1,1
+18,male,Penang,Pre- University,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+18,male,Terengganu,Pre- University,3.50 - 4.00,0,0,1,1,1,1,1,1,1
+18,male,Terengganu,Pre- University,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+18,male,Pahang,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+18,female,Negeri Sembilan,Pre- University,3.50 - 4.00,0,0,0,1,0,0,0,0,0
+18,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+18,female,Kuala Lumpur,Pre- University,3.50 - 4.00,1,0,0,0,1,1,1,0,1
+18,female,Negeri Sembilan,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+18,female,Kuala Lumpur,Degree,2.00 - 2.49,0,0,0,0,0,0,0,0,0
+18,female,Kelantan,Degree,3.50 - 4.00,0,0,0,1,1,1,0,0,1
+18,male,Kuala Lumpur,Degree,3.00 - 3.49,0,0,1,1,1,1,1,1,0
+18,male,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+18,male,Selangor,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+18,male,Kuala Lumpur,Pre- University,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+18,male,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,0,0,0,0,1,0,1
+18,female,Pahang,Pre- University,3.00 - 3.49,0,0,1,1,1,1,0,1,0
+18,female,Sabah,Pre- University,3.00 - 3.49,0,0,0,0,1,1,1,0,0
+18,female,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+18,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,1,1,0,0,0
+18,female,Perak,Degree,3.50 - 4.00,0,0,0,0,1,1,1,1,1
+18,female,Kuala Lumpur,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+18,male,Kelantan,Pre- University,3.50 - 4.00,0,0,0,0,0,1,0,0,1
+18,female,Negeri Sembilan,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+18,female,Penang,Pre- University,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+18,female,Perak,Pre- University,3.50 - 4.00,0,0,1,0,0,0,1,0,1
+18,female,Penang,Pre- University,2.50 - 2.99,0,0,0,1,1,0,1,1,0
+18,male,Sarawak,Pre- University,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+19,male,Selangor,Pre- University,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+19,male,Johor,Pre- University,3.00 - 3.49,0,0,0,1,1,1,0,0,0
+19,male,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,0,1,1,1,1,1,0
+19,female,Johor,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+19,female,Johor,Pre- University,2.50 - 2.99,0,0,0,0,0,1,1,0,0
+19,female,Sabah,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,female,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,1,0,0,0,1,0,0
+19,female,Malacca,Pre- University,3.00 - 3.49,0,0,0,1,1,1,0,1,0
+19,female,Sabah,Pre- University,2.50 - 2.99,0,0,0,0,1,1,1,0,0
+19,male,Kuala Lumpur,Pre- University,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+19,male,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,0,0,1,1,0,0,0
+19,male,Malacca,Pre- University,3.00 - 3.49,0,0,0,0,1,1,1,0,0
+19,male,Selangor,Pre- University,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+19,male,Selangor,Pre- University,3.50 - 4.00,1,0,1,1,1,0,1,1,0
+19,male,Penang,Pre- University,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+19,male,Malacca,Pre- University,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+19,female,Johor,Pre- University,2.50 - 2.99,0,0,0,1,1,0,0,0,1
+19,female,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+19,female,Johor,Pre- University,2.50 - 2.99,0,0,1,0,0,0,1,0,0
+19,female,Sarawak,Pre- University,3.00 - 3.49,0,0,0,0,0,1,1,0,0
+19,female,Johor,Pre- University,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+19,female,Johor,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,male,Kelantan,Pre- University,2.50 - 2.99,0,0,1,0,1,0,0,0,0
+19,male,Malacca,Pre- University,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+19,male,Selangor,Pre- University,3.50 - 4.00,0,0,0,1,1,0,1,1,0
+19,male,Terengganu,Pre- University,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+19,male,Penang,Pre- University,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+19,female,Selangor,Degree,3.00 - 3.49,0,0,0,1,1,1,1,0,0
+19,female,Malacca,Degree,3.00 - 3.49,0,0,0,0,1,0,1,1,0
+19,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+19,female,Sabah,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+19,female,Selangor,Degree,3.00 - 3.49,0,0,0,0,1,1,0,0,0
+19,female,Negeri Sembilan,Degree,3.00 - 3.49,0,0,1,0,0,1,0,1,1
+19,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+19,male,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+19,male,Johor,Degree,3.00 - 3.49,0,0,0,0,1,0,1,0,1
+19,male,Sarawak,Degree,3.00 - 3.49,0,0,0,0,0,0,1,1,0
+19,male,Pahang,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+19,male,Selangor,Degree,3.00 - 3.49,0,0,0,0,0,0,0,1,0
+19,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,1,1,0,0,0
+19,female,Terengganu,Pre- University,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+19,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,1,1,1,0,1,0,0
+19,female,Penang,Pre- University,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+19,female,Selangor,Pre- University,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+19,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,1,0,1,0,0
+19,male,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+19,male,Sabah,Degree,2.50 - 2.99,0,0,0,0,1,1,1,0,0
+19,male,Selangor,Degree,3.50 - 4.00,0,0,0,1,1,0,0,0,0
+19,male,Sarawak,Degree,3.00 - 3.49,0,0,1,0,0,0,0,1,1
+19,male,Penang,Degree,3.00 - 3.49,0,0,0,0,0,0,1,1,0
+19,male,Kelantan,Degree,3.50 - 4.00,0,0,0,1,1,0,1,0,0
+19,female,Sabah,Degree,2.50 - 2.99,0,0,1,0,0,1,0,0,1
+19,female,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,female,Sarawak,Degree,2.00 - 2.49,0,0,1,0,0,1,1,0,0
+19,female,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,female,Sarawak,Degree,3.50 - 4.00,0,0,0,1,1,0,0,1,1
+19,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+19,male,Selangor,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,male,Negeri Sembilan,Pre- University,3.00 - 3.49,0,0,0,0,0,1,1,0,0
+19,male,Perak,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,male,Selangor,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,male,Pahang,Pre- University,3.50 - 4.00,0,0,0,1,1,1,1,0,0
+19,male,Selangor,Pre- University,2.00 - 2.49,0,0,0,0,0,1,0,0,1
+19,female,Malacca,Degree,3.50 - 4.00,0,0,0,1,1,1,1,0,0
+19,female,Perak,Degree,3.50 - 4.00,0,0,0,0,0,0,1,1,0
+19,female,Kelantan,Degree,0 - 1.99,0,0,1,0,0,0,0,0,0
+19,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+19,female,Perak,Degree,3.50 - 4.00,0,0,0,0,1,0,1,1,1
+19,female,Malacca,Degree,3.50 - 4.00,0,0,0,1,1,1,1,0,0
+19,female,Perak,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+19,female,Kelantan,Degree,0 - 1.99,0,0,1,0,0,0,0,0,0
+19,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+19,female,Perak,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,female,Selangor,Degree,2.50 - 2.99,0,0,0,0,1,1,1,0,0
+19,female,Kelantan,Degree,3.00 - 3.49,0,1,1,0,1,1,1,0,0
+19,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+19,female,Perak,Degree,2.50 - 2.99,0,1,0,0,1,1,0,0,0
+19,female,Sabah,Degree,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+19,female,Selangor,Degree,3.00 - 3.49,0,1,1,0,0,0,1,0,0
+19,male,Kelantan,Degree,3.50 - 4.00,0,0,0,1,1,0,1,1,0
+19,male,Kedah,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+20,male,Sarawak,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+20,male,Malacca,Degree,3.00 - 3.49,0,0,0,0,1,1,0,0,0
+20,female,Kuala Lumpur,Degree,3.00 - 3.49,1,0,0,1,0,0,1,1,0
+20,male,Terengganu,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+20,female,Kedah,Degree,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+20,female,Kelantan,Pre- University,2.50 - 2.99,0,1,0,0,0,1,0,0,1
+20,female,Kedah,Pre- University,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+20,female,Negeri Sembilan,Pre- University,3.00 - 3.49,0,0,1,0,0,0,1,0,0
+20,female,Perak,Pre- University,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+20,female,Selangor,Degree,3.00 - 3.49,1,0,1,0,1,1,0,0,0
+20,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,0,0,1,0,0,0
+20,male,Pahang,Degree,3.50 - 4.00,0,0,0,1,1,0,1,0,1
+20,male,Selangor,Degree,3.50 - 4.00,1,0,1,0,1,0,0,0,0
+20,male,Kuala Lumpur,Degree,2.00 - 2.49,0,0,0,0,0,1,0,0,0
+20,male,Selangor,Degree,3.00 - 3.49,0,0,0,0,1,0,1,0,0
+20,male,Kelantan,Degree,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+20,male,Selangor,Degree,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+20,male,Malacca,Degree,3.50 - 4.00,1,0,1,1,1,0,0,0,0
+20,male,Pahang,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+20,male,Johor,Degree,3.00 - 3.49,0,0,1,0,0,1,1,0,1
+20,male,Penang,Pre- University,3.00 - 3.49,0,0,0,1,1,0,1,0,0
+20,male,Terengganu,Pre- University,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+20,female,Selangor,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+20,female,Selangor,Pre- University,3.50 - 4.00,0,0,1,0,0,1,1,0,0
+20,female,Selangor,Degree,2.00 - 2.49,1,0,1,0,0,1,0,1,0
+20,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,1,1,0,0,0,0
+20,female,Kedah,Degree,3.50 - 4.00,0,0,1,0,1,0,0,1,0
+20,female,Sabah,Degree,3.00 - 3.49,1,0,0,0,0,0,1,0,0
+20,male,Negeri Sembilan,Degree,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+20,female,Negeri Sembilan,Degree,3.00 - 3.49,0,0,1,0,1,0,0,0,0
+20,female,Perak,Degree,2.50 - 2.99,1,1,1,0,1,0,1,0,1
+20,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,1,1,1,1,1,0
+20,male,Negeri Sembilan,Degree,2.00 - 2.49,0,0,0,0,0,1,0,0,0
+20,male,Selangor,Degree,0 - 1.99,0,0,0,1,1,1,1,0,0
+20,male,Kuala Lumpur,Degree,3.00 - 3.49,1,0,1,0,0,0,1,0,1
+20,male,Sarawak,Degree,3.50 - 4.00,1,0,0,0,1,1,0,0,0
+20,male,Selangor,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+20,male,Kelantan,Degree,2.50 - 2.99,0,0,1,0,1,0,0,1,1
+20,male,Kelantan,Degree,0 - 1.99,0,0,0,0,1,1,1,0,0
+20,male,Johor,Degree,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+20,male,Selangor,Degree,3.00 - 3.49,0,0,1,0,0,0,1,0,0
+20,female,Malacca,Degree,3.00 - 3.49,0,0,0,1,1,1,0,0,0
+20,female,Perak,Degree,3.00 - 3.49,1,0,1,1,1,1,1,1,0
+20,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+20,female,Kelantan,Degree,0 - 1.99,1,1,1,0,1,0,0,1,0
+20,female,Malacca,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+20,female,Malacca,Degree,3.50 - 4.00,1,0,0,0,1,0,1,0,0
+20,male,Sabah,Degree,2.50 - 2.99,0,0,1,1,1,1,0,1,0
+20,male,Pahang,Degree,3.00 - 3.49,0,0,1,0,1,1,1,0,1
+20,male,Selangor,Master,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+20,male,Sarawak,Degree,2.00 - 2.49,0,0,1,0,1,1,0,0,0
+20,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,0,1,1,1,0,0
+20,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+20,female,Johor,Degree,3.50 - 4.00,1,0,0,1,1,0,0,1,0
+20,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+20,female,Penang,Pre- University,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+20,female,Kuala Lumpur,Pre- University,3.00 - 3.49,1,0,0,0,1,0,0,0,0
+20,female,Terengganu,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,1
+20,female,Sabah,Pre- University,3.00 - 3.49,1,0,1,0,1,0,1,0,0
+20,male,Kelantan,Degree,2.50 - 2.99,0,0,0,1,1,0,1,1,0
+20,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+20,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+20,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+20,female,Selangor,Degree,3.50 - 4.00,1,0,0,0,1,0,1,1,0
+20,female,Kelantan,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+20,female,Penang,Pre- University,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+20,male,Sabah,Pre- University,2.00 - 2.49,0,0,1,0,1,1,0,0,0
+20,male,Terengganu,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+20,male,Terengganu,Pre- University,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+20,male,Penang,Degree,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+20,male,Sarawak,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,1
+20,male,Perak,Master,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+20,female,Negeri Sembilan,Pre- University,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+20,female,Perak,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+20,female,Negeri Sembilan,Degree,3.50 - 4.00,1,0,0,0,1,1,0,0,0
+20,female,Kelantan,Degree,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+20,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,1,1,0,1,0,0
+20,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,0,0,1,0,0,0,1
+20,male,Selangor,Degree,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+20,male,Penang,Degree,3.50 - 4.00,0,0,1,0,1,0,1,0,0
+20,male,Selangor,Degree,3.00 - 3.49,0,0,1,0,0,1,0,0,1
+20,male,Johor,Degree,3.00 - 3.49,0,0,1,0,1,1,1,0,1
+20,male,Kuala Lumpur,Master,3.50 - 4.00,1,0,1,1,1,0,0,0,0
+20,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+20,male,Perak,Master,3.00 - 3.49,1,0,0,0,0,0,1,0,0
+20,female,Kelantan,Degree,3.50 - 4.00,0,0,1,1,1,0,1,0,0
+20,female,Kuala Lumpur,Degree,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+20,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+20,female,Pahang,Degree,2.50 - 2.99,0,0,0,0,0,1,1,0,0
+20,female,Selangor,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+20,female,Pahang,Degree,0 - 1.99,0,0,1,1,1,0,0,0,1
+20,male,Sabah,Degree,3.00 - 3.49,1,0,0,0,1,0,0,0,0
+20,male,Kelantan,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+20,male,Terengganu,Degree,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+20,male,Selangor,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+20,male,Sarawak,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+20,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+20,male,Kelantan,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+20,male,Terengganu,Degree,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+20,male,Selangor,Degree,2.50 - 2.99,0,0,1,0,0,1,0,0,1
+20,male,Selangor,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+20,male,Terengganu,Degree,3.00 - 3.49,1,0,0,0,0,1,0,0,0
+20,male,Selangor,Pre- University,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+20,male,Selangor,Pre- University,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+20,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+20,female,Penang,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+21,female,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+21,male,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+21,male,Sabah,Degree,3.50 - 4.00,0,1,1,1,1,1,1,0,1
+21,female,Selangor,Degree,3.50 - 4.00,0,0,1,1,1,1,0,1,0
+21,female,Kuala Lumpur,Master,3.50 - 4.00,0,0,0,1,1,1,1,0,0
+21,male,Kelantan,Pre- University,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+21,male,Perak,Pre- University,3.00 - 3.49,0,0,0,0,1,1,0,0,0
+21,male,Selangor,Degree,2.50 - 2.99,1,0,0,0,1,1,1,0,1
+21,female,Kelantan,Degree,3.00 - 3.49,0,0,1,0,1,0,1,1,1
+21,male,Sarawak,Pre- University,3.00 - 3.49,0,0,1,1,1,0,1,1,0
+21,female,Kedah,Pre- University,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+21,female,Kuala Lumpur,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+21,male,Selangor,Degree,2.50 - 2.99,0,0,1,1,0,1,0,0,0
+21,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+21,male,Malacca,Degree,3.50 - 4.00,1,0,1,0,0,0,1,0,0
+21,female,Kelantan,Degree,3.50 - 4.00,0,0,0,0,0,1,1,0,0
+21,female,Johor,Degree,2.50 - 2.99,0,0,1,0,0,1,1,0,0
+21,male,Kuala Lumpur,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+21,male,Selangor,Master,2.50 - 2.99,0,0,1,1,1,0,1,0,0
+21,male,Terengganu,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+21,male,Sabah,Degree,2.50 - 2.99,0,0,1,0,1,0,1,1,0
+21,male,Penang,Degree,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+21,female,Malacca,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+21,female,Selangor,Degree,3.00 - 3.49,0,0,0,1,1,1,1,0,0
+21,female,Selangor,Degree,3.00 - 3.49,0,0,0,0,1,0,1,1,0
+21,female,Penang,Degree,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+21,female,Selangor,Degree,2.50 - 2.99,0,0,1,1,0,1,0,0,0
+21,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,1,1,0,0,0
+21,male,Perak,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+21,female,Negeri Sembilan,Degree,3.50 - 4.00,0,1,0,0,0,0,0,0,0
+21,male,Perak,Degree,3.00 - 3.49,0,0,1,1,1,1,1,1,1
+21,male,Selangor,Degree,3.50 - 4.00,1,0,1,1,0,0,1,0,0
+21,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,1,0,1,0,1
+21,female,Sarawak,Degree,3.50 - 4.00,1,0,0,0,0,0,1,0,0
+21,female,Kuala Lumpur,Master,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+21,male,Kuala Lumpur,Master,3.00 - 3.49,0,0,1,0,1,1,0,0,0
+21,female,Terengganu,Degree,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+21,female,Pahang,Degree,3.50 - 4.00,0,0,1,1,1,0,1,0,1
+21,male,Pahang,Pre- University,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+21,male,Pahang,Pre- University,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+21,female,Negeri Sembilan,Pre- University,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+21,male,Penang,Pre- University,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+21,male,Pahang,Master,3.50 - 4.00,0,0,1,0,1,1,1,1,1
+21,male,Malacca,Degree,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+21,female,Pahang,Degree,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+21,male,Kedah,Master,2.50 - 2.99,1,1,1,0,0,0,1,0,0
+21,female,Kedah,Master,3.50 - 4.00,0,0,0,1,1,0,1,0,0
+21,female,Pahang,Degree,3.00 - 3.49,1,0,1,0,1,1,0,0,0
+21,male,Penang,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+21,female,Penang,Degree,3.50 - 4.00,0,0,0,0,0,1,1,1,0
+21,female,Johor,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+21,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,1,1,0,0,0,0
+21,male,Johor,Degree,3.00 - 3.49,1,0,1,0,1,0,1,0,0
+21,female,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,1,0,0,0,0,1
+21,female,Johor,Master,3.00 - 3.49,0,0,1,0,1,1,0,0,0
+21,female,Terengganu,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+21,female,Terengganu,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+21,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,1,1,1,1,0,0
+21,female,Johor,Degree,3.00 - 3.49,1,0,1,0,0,1,0,1,1
+21,male,Kuala Lumpur,Degree,2.50 - 2.99,1,0,1,0,1,1,1,0,0
+21,male,Penang,Degree,3.00 - 3.49,0,0,0,1,0,0,1,0,0
+21,male,Sarawak,Master,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+21,male,Sarawak,Degree,3.50 - 4.00,1,1,1,1,0,0,0,0,1
+21,male,Sarawak,Degree,3.50 - 4.00,0,0,1,1,1,0,0,1,0
+21,male,Selangor,Degree,2.50 - 2.99,1,0,1,0,1,1,1,0,0
+21,female,Pahang,Master,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+21,female,Kelantan,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,1
+21,female,Selangor,Degree,2.50 - 2.99,1,0,0,1,1,1,0,0,0
+21,female,Kuala Lumpur,Degree,3.00 - 3.49,1,0,1,1,1,1,1,1,1
+21,female,Selangor,Degree,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+21,female,Kuala Lumpur,Degree,3.00 - 3.49,1,1,1,1,0,0,0,1,1
+21,male,Terengganu,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+21,male,Selangor,Degree,2.50 - 2.99,0,0,0,1,0,0,1,0,0
+21,male,Selangor,Degree,3.50 - 4.00,0,0,1,1,1,1,0,1,1
+21,male,Kelantan,Degree,3.00 - 3.49,0,0,0,0,1,1,1,0,0
+21,male,Penang,Degree,2.50 - 2.99,0,0,1,1,0,1,0,1,0
+21,male,Pahang,Degree,0 - 1.99,0,0,1,1,1,1,0,0,0
+21,male,Kuala Lumpur,Degree,2.50 - 2.99,1,0,1,1,1,1,1,0,1
+21,male,Perak,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+21,male,Pahang,Degree,3.50 - 4.00,0,0,0,1,1,0,1,1,0
+21,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,1,0,0,1
+21,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+21,female,Kuala Lumpur,Degree,2.50 - 2.99,0,0,1,0,1,0,1,0,0
+21,male,Kuala Lumpur,Degree,2.50 - 2.99,1,0,1,0,0,0,0,1,1
+21,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+21,female,Kedah,Degree,0 - 1.99,0,0,0,0,1,1,1,0,0
+21,female,Perak,Degree,0 - 1.99,0,0,1,0,1,1,0,0,0
+21,male,Terengganu,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+21,female,Selangor,Degree,3.00 - 3.49,1,0,0,1,1,0,0,0,0
+21,male,Kuala Lumpur,Degree,2.50 - 2.99,1,0,0,1,0,0,1,0,0
+21,male,Johor,Degree,3.50 - 4.00,1,0,1,1,1,0,1,1,0
+21,male,Kuala Lumpur,Degree,2.50 - 2.99,0,0,0,1,0,1,0,0,0
+21,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+21,female,Sarawak,Degree,3.00 - 3.49,0,0,1,1,1,1,1,0,0
+21,female,Johor,Degree,3.00 - 3.49,0,0,1,1,1,0,1,1,0
+21,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,male,Johor,Degree,2.00 - 2.49,0,0,1,0,0,0,1,0,0
+22,male,Pahang,Degree,0 - 1.99,1,1,1,1,1,0,1,1,0
+22,male,Terengganu,Degree,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+22,male,Johor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,female,Negeri Sembilan,Degree,2.50 - 2.99,0,0,1,1,1,1,1,0,0
+22,female,Johor,Degree,3.50 - 4.00,0,0,1,0,1,0,1,1,0
+22,female,Selangor,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+22,female,Penang,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,1
+22,female,Sarawak,Degree,2.50 - 2.99,0,0,1,0,1,1,0,0,0
+22,female,Selangor,Degree,3.00 - 3.49,0,1,1,0,0,0,0,0,0
+22,male,Malacca,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+22,male,Johor,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+22,male,Pahang,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+22,male,Terengganu,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+22,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+22,male,Kelantan,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+22,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,1,0,1,1,0,0,0
+22,male,Malacca,Degree,3.50 - 4.00,1,0,0,0,0,1,0,0,0
+22,female,Sarawak,Degree,2.50 - 2.99,0,0,0,1,1,0,1,0,0
+22,female,Selangor,Master,3.50 - 4.00,0,1,1,0,1,0,0,0,0
+22,female,Penang,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+22,female,Terengganu,Degree,3.00 - 3.49,0,0,1,0,1,0,1,0,0
+22,female,Pahang,Degree,3.50 - 4.00,0,1,0,0,0,1,0,0,0
+22,female,Johor,Degree,3.00 - 3.49,0,1,1,0,1,1,1,0,0
+22,male,Penang,Degree,3.00 - 3.49,1,0,0,1,1,1,0,0,0
+22,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+22,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,1,0,0,0,1,0,1
+22,male,Negeri Sembilan,Degree,3.50 - 4.00,0,0,1,1,1,0,1,1,0
+22,male,Sarawak,Degree,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+22,female,Johor,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+22,female,Kelantan,Degree,2.50 - 2.99,1,0,1,0,0,1,1,0,0
+22,female,Pahang,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+22,female,Kuala Lumpur,Degree,2.50 - 2.99,0,0,1,1,1,0,0,0,0
+22,male,Kedah,Degree,2.50 - 2.99,0,0,1,0,1,0,0,0,0
+22,female,Negeri Sembilan,Master,3.50 - 4.00,0,1,0,0,0,1,0,0,0
+22,female,Sabah,Degree,2.50 - 2.99,0,1,0,0,0,1,0,1,0
+22,female,Sabah,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+22,male,Kuala Lumpur,Master,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+22,male,Malacca,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+22,male,Penang,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+22,male,Perak,Degree,3.50 - 4.00,0,0,1,1,1,1,1,0,1
+22,male,Kuala Lumpur,Pre- University,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+22,female,Kelantan,Pre- University,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+22,female,Penang,Pre- University,3.50 - 4.00,0,0,0,0,0,1,1,0,0
+22,female,Selangor,Pre- University,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+22,female,Perak,Degree,2.50 - 2.99,0,0,0,1,1,0,0,0,0
+22,female,Kedah,Degree,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+22,male,Selangor,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+22,male,Kuala Lumpur,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+22,male,Sarawak,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,male,Selangor,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+22,male,Malacca,Degree,3.00 - 3.49,1,0,1,1,1,1,1,0,0
+22,female,Negeri Sembilan,Degree,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+22,male,Penang,Degree,3.50 - 4.00,1,0,1,1,1,1,1,0,0
+22,female,Selangor,Degree,3.50 - 4.00,1,0,0,0,0,0,1,0,0
+22,female,Kuala Lumpur,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+22,female,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,female,Kedah,Degree,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+22,male,Sabah,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+22,female,Penang,Degree,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+22,male,Penang,Master,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+22,female,Pahang,Master,0 - 1.99,0,0,1,1,1,0,0,0,0
+22,male,Perak,Degree,3.00 - 3.49,0,0,1,1,1,1,0,1,1
+22,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,male,Johor,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+22,male,Terengganu,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+22,male,Terengganu,Degree,2.50 - 2.99,1,0,0,1,0,1,0,0,0
+22,male,Kuala Lumpur,Master,3.50 - 4.00,0,0,1,0,1,0,1,0,0
+22,female,Malacca,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+22,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,0,0,1,0,0,0
+22,female,Sabah,Master,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+22,male,Terengganu,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,female,Kuala Lumpur,Degree,3.00 - 3.49,1,0,1,1,1,0,1,0,1
+22,male,Selangor,Degree,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+22,male,Sarawak,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+22,male,Pahang,Degree,2.50 - 2.99,0,0,1,0,1,0,1,0,0
+22,female,Pahang,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+22,male,Kuala Lumpur,Master,3.00 - 3.49,1,0,1,0,0,0,1,0,0
+23,female,Terengganu,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+23,male,Kuala Lumpur,Master,3.50 - 4.00,0,0,0,0,1,0,1,0,0
+23,female,Sabah,Degree,3.50 - 4.00,0,0,1,0,0,1,0,1,1
+23,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+23,male,Johor,Degree,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+23,female,Penang,Master,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+23,male,Kelantan,Degree,3.50 - 4.00,1,0,1,0,0,0,1,0,1
+23,female,Terengganu,Degree,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+23,male,Perak,Pre- University,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+23,female,Johor,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+23,male,Penang,Pre- University,3.50 - 4.00,0,0,1,0,0,1,1,0,0
+23,female,Selangor,Pre- University,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+23,male,Kedah,Degree,3.50 - 4.00,0,0,0,1,1,0,0,0,0
+23,female,Sarawak,Degree,3.00 - 3.49,0,0,0,0,1,0,0,0,1
+23,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+23,female,Perak,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+23,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+23,female,Terengganu,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+23,male,Sarawak,Master,0 - 1.99,1,1,0,1,1,0,1,0,0
+23,female,Sarawak,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,1
+23,male,Negeri Sembilan,Degree,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+23,female,Terengganu,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+23,male,Sabah,Pre- University,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+23,female,Selangor,Pre- University,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+23,male,Kedah,Pre- University,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+23,female,Selangor,Pre- University,3.00 - 3.49,0,0,0,0,1,1,1,0,0
+23,male,Sarawak,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+23,female,Negeri Sembilan,Master,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+23,male,Kuala Lumpur,Master,3.50 - 4.00,1,0,0,1,1,0,1,0,0
+23,female,Selangor,Degree,3.50 - 4.00,0,0,1,0,1,0,1,1,0
+23,male,Kuala Lumpur,Master,3.50 - 4.00,0,0,1,0,0,0,0,0,1
+23,female,Sabah,Degree,2.00 - 2.49,0,0,0,0,0,0,0,0,0
+23,male,Sabah,Degree,2.50 - 2.99,1,1,1,0,1,0,0,0,1
+23,female,Perak,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+23,female,Selangor,Degree,3.50 - 4.00,1,0,1,1,1,1,0,1,0
+23,male,Penang,Degree,3.00 - 3.49,0,0,0,0,1,1,1,0,0
+23,male,Kedah,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+23,female,Perak,Degree,2.50 - 2.99,0,0,1,0,1,1,0,0,0
+23,female,Sarawak,Degree,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+23,male,Selangor,Pre- University,2.00 - 2.49,0,0,0,0,0,0,0,0,0
+23,female,Sarawak,Pre- University,2.50 - 2.99,0,0,1,1,1,0,1,1,0
+23,male,Malacca,Pre- University,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+23,male,Johor,Pre- University,3.50 - 4.00,0,0,0,1,0,0,0,0,1
+23,female,Penang,Degree,2.50 - 2.99,0,0,0,1,1,0,0,0,0
+23,female,Selangor,Degree,3.00 - 3.49,0,0,0,1,0,0,0,0,0
+23,male,Kelantan,Degree,3.00 - 3.49,0,0,0,1,0,0,1,0,0
+23,male,Malacca,Degree,3.00 - 3.49,0,0,0,0,0,1,1,1,0
+23,female,Penang,Degree,3.50 - 4.00,0,0,0,1,0,1,0,0,0
+23,male,Penang,Pre- University,3.00 - 3.49,0,0,1,1,0,1,0,0,0
+23,male,Kedah,Pre- University,3.00 - 3.49,0,0,1,1,1,0,0,0,0
+23,male,Penang,Pre- University,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+23,female,Selangor,Pre- University,3.00 - 3.49,0,0,0,1,1,0,1,1,1
+23,male,Penang,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+23,male,Malacca,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+23,male,Selangor,Degree,3.50 - 4.00,0,0,1,1,1,1,1,0,0
+23,female,Penang,Degree,0 - 1.99,1,1,0,1,1,0,0,1,1
+23,male,Sabah,Degree,3.00 - 3.49,1,0,1,0,0,1,1,1,0
+23,female,Negeri Sembilan,Degree,3.50 - 4.00,0,0,1,1,1,0,1,0,0
+23,female,Selangor,Degree,3.00 - 3.49,0,0,0,1,1,1,0,0,1
+23,male,Malacca,Degree,3.50 - 4.00,0,0,0,1,0,0,1,0,1
+23,male,Kelantan,Degree,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+23,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,1,0,0,1,0,0
+23,female,Selangor,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+23,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+23,female,Kelantan,Degree,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+23,female,Kuala Lumpur,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+23,male,Kedah,Degree,0 - 1.99,0,0,1,0,1,1,0,0,0
+22,female,Selangor,Degree,2.50 - 2.99,1,0,0,1,0,1,0,0,1
+22,male,Kuala Lumpur,Master,3.50 - 4.00,0,0,1,0,1,0,1,0,1
+22,female,Malacca,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+22,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,0,0,1,0,1,1
+22,female,Sabah,Master,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+22,male,Terengganu,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+22,female,Kuala Lumpur,Degree,3.00 - 3.49,1,0,1,1,1,0,1,0,1
+22,male,Selangor,Degree,3.00 - 3.49,0,0,0,0,0,1,0,1,0
+22,male,Sarawak,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+22,female,Pahang,Degree,2.50 - 2.99,0,1,1,0,1,1,1,1,1
+22,female,Pahang,Degree,2.50 - 2.99,0,0,0,0,1,0,1,0,0
+22,male,Kuala Lumpur,Master,3.00 - 3.49,1,0,1,0,0,0,1,0,0
+24,male,Sarawak,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+24,male,Malacca,Degree,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+24,female,Johor,Degree,3.00 - 3.49,0,0,0,1,1,1,0,0,0
+24,female,Kedah,Degree,3.50 - 4.00,0,0,0,1,1,0,1,0,0
+24,female,Johor,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Pahang,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,male,Sabah,Degree,3.00 - 3.49,0,0,1,1,1,1,1,1,0
+24,male,Penang,Degree,2.50 - 2.99,1,0,0,0,1,0,1,0,0
+24,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,0,0,1,0,0,0
+24,female,Terengganu,Degree,3.50 - 4.00,1,0,0,0,1,1,1,0,0
+24,male,Kuala Lumpur,Degree,3.00 - 3.49,1,0,0,1,1,0,0,0,0
+24,female,Kedah,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,female,Penang,Master,3.50 - 4.00,1,0,1,0,0,0,1,0,0
+24,female,Selangor,Degree,3.50 - 4.00,1,0,0,1,1,0,1,0,0
+24,male,Kedah,Master,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+24,female,Penang,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+24,male,Sarawak,Degree,3.00 - 3.49,1,0,1,0,0,1,1,0,0
+24,male,Perak,Degree,3.50 - 4.00,1,0,1,1,0,0,0,0,0
+24,male,Negeri Sembilan,Degree,2.50 - 2.99,1,0,1,1,1,0,0,0,0
+24,female,Kuala Lumpur,Master,3.50 - 4.00,1,0,1,1,1,0,0,0,0
+24,female,Kedah,Master,3.50 - 4.00,1,0,0,1,0,0,0,0,0
+24,male,Penang,Master,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+24,male,Selangor,Degree,3.00 - 3.49,1,0,0,1,0,0,0,0,0
+24,female,Terengganu,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+24,female,Kedah,Degree,0 - 1.99,1,0,1,1,1,1,1,0,0
+24,female,Perak,Degree,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+24,male,Negeri Sembilan,Degree,2.50 - 2.99,1,0,0,1,1,1,1,0,0
+24,female,Selangor,Degree,3.00 - 3.49,1,0,0,0,0,0,1,0,0
+24,female,Johor,Degree,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+24,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,male,Penang,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+24,female,Kedah,Master,3.00 - 3.49,1,0,0,0,1,1,1,0,0
+24,male,Penang,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+24,female,Sarawak,Degree,0 - 1.99,1,0,1,0,0,0,0,0,0
+24,female,Kelantan,Master,2.50 - 2.99,1,0,0,1,1,1,0,0,0
+24,female,Penang,Degree,3.50 - 4.00,1,0,1,1,1,1,1,1,0
+24,female,Kelantan,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,male,Kedah,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,male,Selangor,Degree,3.50 - 4.00,1,0,1,0,0,0,1,0,0
+24,male,Sabah,Degree,3.50 - 4.00,1,0,1,1,1,1,0,1,0
+24,male,Pahang,Degree,0 - 1.99,1,0,0,0,1,1,1,0,0
+24,female,Sabah,Degree,3.50 - 4.00,1,0,0,1,0,0,0,0,0
+24,male,Sabah,Degree,3.50 - 4.00,1,0,0,1,1,1,0,0,0
+24,female,Terengganu,Degree,2.00 - 2.49,1,0,1,0,1,1,1,0,0
+24,male,Sarawak,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,female,Sabah,Degree,3.00 - 3.49,1,0,1,1,1,0,1,1,0
+24,male,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,0,0,1,0,0,0
+24,female,Penang,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+24,male,Kedah,Degree,3.50 - 4.00,1,0,0,0,1,0,0,0,0
+24,female,Selangor,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+24,male,Kelantan,Master,3.50 - 4.00,1,0,0,0,0,0,1,0,0
+24,female,Perak,Degree,2.00 - 2.49,1,0,1,0,0,1,1,0,0
+24,male,Sabah,Degree,3.00 - 3.49,1,0,0,0,0,1,0,0,0
+24,male,Sarawak,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,female,Pahang,Degree,3.00 - 3.49,0,0,1,0,1,0,0,0,0
+24,male,Penang,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+24,female,Negeri Sembilan,Degree,3.00 - 3.49,0,0,0,1,1,0,1,1,0
+24,male,Kelantan,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+24,male,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,male,Terengganu,Degree,2.00 - 2.49,0,0,1,1,1,1,1,0,0
+24,female,Kelantan,Degree,3.00 - 3.49,0,0,0,0,1,0,1,1,0
+24,female,Sabah,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Sarawak,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,female,Penang,Degree,2.50 - 2.99,0,0,0,0,1,1,0,0,0
+24,male,Terengganu,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Terengganu,Master,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,female,Sarawak,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+24,male,Terengganu,Master,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,female,Pahang,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+24,male,Sabah,Degree,2.50 - 2.99,0,0,1,1,0,0,1,0,0
+24,female,Sabah,Degree,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+24,male,Sarawak,Degree,3.50 - 4.00,0,0,1,0,1,1,0,0,0
+24,female,Sarawak,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,male,Terengganu,Degree,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+24,female,Sarawak ,Degree,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+24,female,Pahang,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+24,male,Perak,Degree,3.50 - 4.00,0,0,1,0,1,0,1,0,0
+24,male,Negeri Sembilan,Degree,2.50 - 2.99,0,0,0,0,0,1,0,0,0
+24,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,1,0,1,1,1,0,0
+24,male,Selangor,Degree,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+24,female,Kelantan,Master,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+24,male,Terengganu,Master,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+24,female,Malacca,Master,2.50 - 2.99,0,0,1,1,1,0,1,0,0
+24,female,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+24,male,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,female,Penang,Degree,2.50 - 2.99,0,0,1,0,0,1,1,0,0
+24,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Johor,Degree,3.50 - 4.00,0,0,0,1,1,0,0,0,0
+24,male,Kedah,Degree,3.50 - 4.00,0,0,1,0,1,0,0,0,0
+24,female,Penang,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+24,male,Penang,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,male,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,male,Kedah,Degree,2.00 - 2.49,0,0,0,0,0,0,0,0,0
+24,female,Perak,Degree,0 - 1.99,0,0,1,1,1,1,1,0,0
+24,male,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+24,female,Pahang,Degree,3.00 - 3.49,0,0,0,1,1,1,1,0,0
+24,female,Kuala Lumpur,Master,3.00 - 3.49,0,0,1,0,0,0,1,0,0
+24,female,Terengganu,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,male,Negeri Sembilan,Master,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+24,male,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,female,Kedah,Degree,2.50 - 2.99,0,0,0,0,1,1,1,0,0
+24,female,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,male,Johor,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,female,Kedah,Degree,3.00 - 3.49,0,0,0,1,1,1,0,0,0
+24,male,Selangor,Degree,3.50 - 4.00,0,0,1,1,1,1,1,1,0
+24,male,Penang,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,female,Terengganu,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,male,Johor,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+24,female,Kedah,Degree,3.50 - 4.00,0,0,0,1,1,1,0,1,0
+24,male,Selangor,Degree,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+24,female,Johor,Master,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,male,Penang,Degree,3.50 - 4.00,0,0,1,0,1,1,0,0,0
+24,female,Selangor,Degree,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+24,male,Kelantan,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,female,Kuala Lumpur,Degree,2.50 - 2.99,0,0,0,1,1,0,1,1,0
+24,female,Sarawak,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+24,male,Perak,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,female,Kelantan,Pre- University,3.00 - 3.49,0,0,1,0,1,0,0,0,0
+24,female,Penang,Pre- University,3.00 - 3.49,1,1,0,0,0,0,0,0,0
+24,male,Pahang,Pre- University,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+24,female,Negeri Sembilan,Degree,3.50 - 4.00,0,1,0,1,0,1,1,0,0
+24,female,Terengganu,Degree,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+24,male,Johor,Degree,2.50 - 2.99,0,0,0,1,0,0,0,0,0
+24,female,Pahang,Degree,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+24,male,Selangor,Degree,0 - 1.99,0,0,0,1,0,0,1,0,0
+24,female,Sarawak,Master,3.50 - 4.00,1,0,1,1,1,0,1,1,0
+24,male,Perak,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,female,Kuala Lumpur,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+24,male,Malacca,Degree,2.50 - 2.99,0,0,1,1,1,1,1,0,0
+24,male,Sabah,Degree,3.50 - 4.00,0,0,1,0,1,0,1,1,0
+24,male,Pahang,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,female,Kelantan,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,male,Kedah,Degree,2.50 - 2.99,0,0,0,0,1,1,0,0,0
+24,female,Kuala Lumpur,Degree,2.50 - 2.99,0,1,0,0,0,0,0,0,0
+24,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,female,Terengganu,Degree,2.50 - 2.99,0,1,0,0,0,0,1,0,0
+24,female,Kuala Lumpur,Degree,2.50 - 2.99,1,1,1,0,0,0,0,0,0
+24,female,Sabah,Master,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+24,male,Kuala Lumpur,Degree,3.00 - 3.49,0,0,0,0,0,0,1,0,0
+24,male,Johor,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,male,Penang,Degree,3.50 - 4.00,0,0,1,0,1,1,0,0,0
+24,female,Kelantan,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+24,female,Terengganu,Degree,3.50 - 4.00,0,0,0,1,1,0,1,0,0
+24,male,Perak,Master,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+24,female,Johor,Degree,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+24,male,Penang,Degree,3.50 - 4.00,0,1,0,0,1,0,1,0,0
+24,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+24,female,Kedah,Degree,3.00 - 3.49,0,1,0,0,1,1,1,0,0
+24,female,Sarawak,Degree,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+24,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+24,female,Perak,Degree,3.50 - 4.00,1,0,0,0,0,0,1,0,0
+24,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,1,1,1,0,1,0,0
+24,female,Terengganu,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,male,Sarawak,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,1
+24,female,Sarawak,Degree,3.00 - 3.49,0,0,0,0,0,1,1,0,0
+24,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,female,Terengganu,Degree,3.50 - 4.00,0,1,0,1,1,0,0,1,0
+24,female,Sabah,Master,2.00 - 2.49,1,0,0,0,1,0,0,0,0
+24,male,Selangor,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,male,Kedah,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,female,Selangor,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,female,Sarawak,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+24,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,1,1,1,1,1,0,0
+24,male,Kuala Lumpur,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,female,Kuala Lumpur,Degree,3.50 - 4.00,1,1,0,1,1,1,1,0,0
+24,male,Kuala Lumpur,Degree,2.50 - 2.99,1,1,0,0,0,0,1,1,0
+24,female,Sabah,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+24,female,Sabah,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,1
+24,female,Perak,Master,3.00 - 3.49,0,0,0,0,0,0,0,0,1
+24,male,Penang,Degree,3.00 - 3.49,0,0,1,0,1,1,1,0,0
+24,female,Penang,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,male,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,female,Perak,Degree,3.50 - 4.00,0,0,0,1,1,1,0,0,0
+24,male,Sarawak,Degree,3.50 - 4.00,0,0,0,1,1,1,1,0,0
+24,female,Terengganu,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,male,Sarawak,Master,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,female,Malacca,Degree,0 - 1.99,1,1,0,0,0,1,1,0,0
+24,female,Johor,Pre- University,3.50 - 4.00,1,0,1,0,0,0,1,0,0
+24,male,Penang,Pre- University,3.00 - 3.49,1,0,0,1,1,1,0,1,0
+24,male,Selangor,Pre- University,3.00 - 3.49,1,0,1,0,1,1,1,0,0
+24,male,Kelantan,Pre- University,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+24,female,Malacca,Degree,2.50 - 2.99,0,0,0,0,1,1,0,0,0
+24,male,Penang,Pre- University,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+24,female,Penang,Pre- University,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+24,male,Kedah,Pre- University,3.00 - 3.49,1,0,0,1,1,0,1,1,0
+24,female,Penang,Pre- University,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+24,male,Sarawak,Degree,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+24,female,Penang,Degree,0 - 1.99,0,0,1,0,1,0,0,1,0
+24,male,Malacca,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,female,Selangor,Degree,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+24,male,Penang,Degree,2.50 - 2.99,0,0,1,0,0,1,0,0,0
+24,female,Sabah,Degree,3.50 - 4.00,0,0,0,0,1,0,0,0,0
+24,female,Negeri Sembilan,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Terengganu,Degree,3.00 - 3.49,0,0,0,0,1,0,0,1,0
+24,male,Malacca,Degree,3.50 - 4.00,1,0,0,0,0,0,1,0,0
+24,male,Kelantan,Degree,3.00 - 3.49,1,0,1,1,1,0,1,1,0
+24,male,Kuala Lumpur,Degree,3.00 - 3.49,1,0,1,0,0,1,0,0,0
+24,female,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,male,Negeri Sembilan,Degree,3.00 - 3.49,0,0,0,1,1,1,1,0,0
+24,male,Perak,Degree,2.50 - 2.99,0,0,1,0,1,0,1,1,0
+24,male,Johor,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,female,Sabah,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Pahang,Degree,3.00 - 3.49,0,0,1,1,1,1,0,0,0
+24,male,Penang,Degree,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+24,female,Penang,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+24,female,Sabah,Degree,2.50 - 2.99,0,0,0,0,0,0,1,0,0
+24,male,Kuala Lumpur,Degree,2.50 - 2.99,0,0,0,0,0,0,0,0,0
+24,female,Kedah,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+24,male,Selangor,Degree,3.50 - 4.00,1,0,1,0,0,0,1,0,0
+24,male,Malacca,Degree,3.50 - 4.00,0,0,1,0,0,0,0,0,0
+24,male,Kelantan,Degree,3.50 - 4.00,0,0,0,0,1,1,0,0,0
+24,female,Penang,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,male,Negeri Sembilan,Degree,2.50 - 2.99,0,0,0,1,1,0,1,0,0
+24,female,Selangor,Degree,3.00 - 3.49,1,0,0,0,1,0,0,0,0
+24,male,Johor,Degree,0 - 1.99,1,1,1,0,0,1,1,0,0
+24,female,Johor,Degree,3.50 - 4.00,0,0,1,0,1,0,1,0,0
+24,female,Penang,Degree,3.50 - 4.00,0,0,1,0,0,1,0,0,0
+24,male,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,0,1,1,1,0,0
+24,female,Penang,Degree,2.50 - 2.99,0,0,0,1,1,0,0,0,0
+24,male,Johor,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+24,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+24,male,Selangor,Degree,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+24,male,Selangor,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+24,female,Malacca,Pre- University,3.00 - 3.49,1,0,0,0,0,0,0,0,0
+24,male,Sarawak,Pre- University,3.50 - 4.00,0,0,1,0,0,1,1,0,0
+24,female,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,male,Kuala Lumpur,Pre- University,3.50 - 4.00,0,0,1,1,1,0,0,0,0
+24,female,Terengganu,Degree,3.50 - 4.00,0,0,1,0,1,0,0,0,0
+24,male,Kuala Lumpur,Degree,2.50 - 2.99,1,0,0,0,0,1,0,0,0
+24,male,Penang,Degree,2.50 - 2.99,1,0,0,0,0,0,0,0,0
+24,female,Sarawak,Master,3.50 - 4.00,0,0,0,1,1,1,1,1,1
+24,male,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,0,1,0,1,0,1
+24,female,Kuala Lumpur,Degree,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+24,male,Sarawak,Degree,2.50 - 2.99,1,1,0,0,0,0,0,0,0
+24,female,Penang,Degree,3.50 - 4.00,0,0,1,0,1,1,0,0,0
+24,male,Malacca,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+24,male,Kedah,Degree,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+24,female,Selangor,Master,3.50 - 4.00,0,0,0,0,0,0,1,0,1
+24,male,Kuala Lumpur,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+24,female,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,0,0,0,1,0,0
+24,female,Selangor,Degree,2.00 - 2.49,0,0,1,1,0,0,1,0,0
+24,male,Negeri Sembilan,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+24,female,Selangor,Master,3.50 - 4.00,1,0,0,1,1,1,0,0,0
+24,male,Sarawak,Degree,3.00 - 3.49,1,0,0,0,0,1,0,0,0
+24,female,Penang,Degree,3.50 - 4.00,0,0,1,1,1,0,1,0,1
+24,female,Kelantan,Degree,3.00 - 3.49,1,0,1,0,1,0,0,0,0
+24,female,Sarawak,Degree,3.50 - 4.00,0,0,0,0,0,1,0,0,0
+24,female,Kelantan,Master,2.50 - 2.99,0,0,1,0,1,0,1,0,0
+24,male,Kuala Lumpur,Master,3.50 - 4.00,0,0,0,1,0,1,0,0,0
+25,female,Malacca,Degree,2.00 - 2.49,1,0,0,0,1,1,1,0,0
+25,male,Selangor,Degree,3.50 - 4.00,0,0,0,1,1,0,0,0,1
+25,female,Kuala Lumpur,Degree,3.50 - 4.00,1,0,0,0,0,0,0,0,0
+25,female,Johor,Degree,0 - 1.99,0,0,1,0,0,0,1,0,0
+25,female,Selangor,Degree,3.00 - 3.49,0,0,1,1,1,0,1,0,0
+25,female,Perak,Degree,0 - 1.99,0,0,0,1,0,1,0,1,0
+25,male,Sarawak,Degree,2.50 - 2.99,0,0,1,0,0,0,0,0,0
+25,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,0,1,1,0,1
+25,male,Kedah,Degree,3.00 - 3.49,1,0,1,0,0,0,0,0,0
+25,male,Selangor,Master,3.00 - 3.49,0,0,1,1,1,0,0,0,0
+25,female,Penang,Master,3.50 - 4.00,0,0,1,0,0,0,1,0,0
+25,male,Johor,Degree,3.00 - 3.49,0,0,0,1,1,0,0,0,0
+25,male,Negeri Sembilan,Degree,2.50 - 2.99,0,0,0,0,1,0,0,0,0
+25,male,Malacca,Degree,2.50 - 2.99,1,0,1,0,0,0,0,0,0
+25,female,Terengganu,Master,3.00 - 3.49,0,0,0,0,0,1,0,0,0
+25,male,Penang,Degree,3.00 - 3.49,0,0,0,0,1,0,0,0,0
+25,female,Sarawak,Degree,3.00 - 3.49,0,0,1,1,0,0,0,0,0
+25,male,Malacca,Degree,0 - 1.99,1,1,0,1,1,1,1,0,0
+25,male,Johor,Degree,3.00 - 3.49,0,0,1,0,0,1,0,0,0
+25,female,Penang,Degree,2.50 - 2.99,0,0,0,1,1,1,1,0,0
+25,female,Sarawak,Degree,2.50 - 2.99,1,0,1,1,0,0,1,0,0
+25,male,Penang,Degree,0 - 1.99,1,1,0,0,0,0,0,0,0
+25,male,Johor,Degree,3.00 - 3.49,0,0,0,0,0,0,0,0,0
+25,female,Pahang,Degree,3.50 - 4.00,1,0,1,0,0,0,0,0,0
+25,male,Johor,Degree,2.50 - 2.99,0,0,1,0,1,1,1,0,0
+25,female,Kuala Lumpur,Degree,3.50 - 4.00,0,0,0,0,0,0,0,0,0
+25,female,Pahang,Degree,3.00 - 3.49,0,0,1,0,0,0,0,0,0
+25,male,Penang,Degree,3.00 - 3.49,0,0,1,1,1,1,0,0,0
+25,male,Sarawak,Degree,3.50 - 4.00,1,0,0,1,1,1,1,1,1
